@@ -1,0 +1,2 @@
+# foreground
+  "sideBarSectionHeader .foreground": "#fff" }
